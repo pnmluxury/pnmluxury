@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PNM Luxury - Location de Voitures de Prestige</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>PNM Luxury</h1>
+            <p>Location de voitures de prestige à La Réunion</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="services.html">Nos Services</a></li>
+                <li><a href="reservation.php">Réservation</a></li>
+                <li><a href="galerie.html">Galerie</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="accueil">
+        <h2>Offrez-vous le luxe pour vos événements !</h2>
+        <p>À la recherche d'une voiture de prestige pour un mariage, un événement spécial ou une célébration ? Découvrez nos services haut de gamme !</p>
+        <img src="images/range-rover.jpg" alt="Range Rover Evoque HSE Dynamic 2018">
+    </section>
+
+    <section id="packs">
+        <h2>Nos Packs Exclusifs</h2>
+        <ul>
+            <li>
+                <h3>Pack Mariage</h3>
+                <p>À partir de 600€ - Location avec chauffeur, décoration en option, champagne offert.</p>
+            </li>
+            <li>
+                <h3>Pack VIP Journée complète</h3>
+                <p>À partir de 500€ - Chauffeur inclus, champagne offert, parfait pour les événements spéciaux.</p>
+            </li>
+            <li>
+                <h3>Pack Événement Spécial</h3>
+                <p>À partir de 300€ - Location de 4h avec ou sans chauffeur, parfait pour les séances photo.</p>
+            </li>
+            <li>
+                <h3>Pack Sans Chauffeur</h3>
+                <p>À partir de 250€ par jour - Liberté totale, profitez à votre rythme.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Nous contacter</h2>
+        <p>Email : <a href="mailto:pnmluxury@gmail.com">pnmluxury@gmail.com</a></p>
+        <p>Téléphone : <a href="tel:+33693021021">06.93.02.10.21</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 PNM Luxury - Location de voitures de prestige à La Réunion</p>
+    </footer>
+</body>
+</html>
